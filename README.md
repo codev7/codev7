@@ -14,7 +14,7 @@
 I'm a **Senior Full-Stack Engineer** with 12+ years of experience building scalable SaaS platforms, AI-driven applications, and Web3 products. I specialize in React, Node.js, Next.js, TypeScript, Python, and AWS.
 
 💼 **Open to Remote Opportunities Worldwide**  
-🎯 **Currently seeking Senior Engineering Roles**
+
 
 ## 💼 Expertise
 
@@ -41,14 +41,6 @@ I'm a **Senior Full-Stack Engineer** with 12+ years of experience building scala
 - **CI/CD** - Automated deployment pipelines
 - **Infrastructure as Code** - Terraform, CloudFormation
 
-## 🌍 Why Remote?
-
-- ✅ **Self-directed** and experienced with autonomous work environments
-- ✅ **Cross-timezone collaboration** expertise (Hong Kong's strategic location)
-- ✅ **Excellent communication** skills across diverse, global teams
-- ✅ **Established home office** with reliable infrastructure and professional setup
-- ✅ **12+ years** of proven track record delivering results independently
-
 ## 🛠️ Languages & Tools
 
 <div>
@@ -64,11 +56,6 @@ I'm a **Senior Full-Stack Engineer** with 12+ years of experience building scala
   <img src="https://img.shields.io/badge/docker-%230DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
-
-## 📈 GitHub Stats
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=codev7&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codev7&layout=compact&theme=tokyonight)
 
 ## 🎯 Currently Available
 
